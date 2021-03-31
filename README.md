@@ -13,5 +13,5 @@ See src/config.py for configuration options. Create a .env file with your config
 
 ```
 poetry install --no-dev --no-root
-poetry run smart_meter.py --help
+poetry run python smart_meter.py --help
 ```
